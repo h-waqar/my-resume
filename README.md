@@ -35,6 +35,9 @@ cd html-resume
 **Open the file**
 Double-click `index.html`, or open it in any browser
 
+**You can view the live demo here:**
+[https://hwaqar-html-resume.netlify.app/](https://hwaqar-html-resume.netlify.app/)
+
 - ## Examples of HTML Semantics
 
   - Use `<header>`, `<main>`, and `<footer>` to separate top content, main resume content, and bottom content.
